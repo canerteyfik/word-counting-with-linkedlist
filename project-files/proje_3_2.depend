@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1609721332 source:c:\users\teyfi\desktop\proje 3\proje_3_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1609812511 source:c:\users\teyfi\desktop\proje_3_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1609812511 source:c:\users\hasan\desktop\190201013_190201060\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
