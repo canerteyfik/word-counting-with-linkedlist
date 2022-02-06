@@ -1,5 +1,6 @@
 # word-counting-with-linkedlist
 Bağlı Liste İle Kelime Sayma
+
           -Abstract
           
 -The goal of this project is, counting the words in the text file and to add to 
